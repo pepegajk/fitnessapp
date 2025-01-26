@@ -1,0 +1,37 @@
+﻿<Window x:Class="FitnessMasterApp.CustomerList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Список клиентов" Height="600" Width="900">
+    <Grid>
+        <!-- Заголовок -->
+        <TextBlock Text="ФитнесМас" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0"/>
+        <TextBlock Text="Список клиентов" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,60,0,0"/>
+
+        <!-- Фильтрация -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,100,0,0" >
+            <TextBox Name="SearchTextBox" Width="300" Height="30" />
+            <Button Content="Искать" Width="100" Click="SearchButton_Click"/>
+        </StackPanel>
+
+        <!-- Таблица клиентов -->
+        <DataGrid Name="ClientsDataGrid" Margin="20,150,20,100" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Номер клиента" Binding="{Binding ClientID}" Width="100"/>
+                <DataGridTextColumn Header="ФИО клиента" Binding="{Binding FullName}" Width="200"/>
+                <DataGridTextColumn Header="Дата рождения" Binding="{Binding BirthDate}" Width="150"/>
+                <DataGridTextColumn Header="Номер телефона" Binding="{Binding Phone}" Width="150"/>
+                <DataGridTextColumn Header="Почта" Binding="{Binding Email}" Width="200"/>
+                <DataGridTextColumn Header="Тип абонемента" Binding="{Binding MembershipType}" Width="150"/>
+                <DataGridTextColumn Header="Статус абонемента" Binding="{Binding MembershipStatus}" Width="150"/>
+                <DataGridTextColumn Header="Номер группы" Binding="{Binding GroupID}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Кнопки управления -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,20" >
+            <Button Content="Изменить" Width="100" Click="EditButton_Click"/>
+            <Button Content="Удалить" Width="100" Click="DeleteButton_Click"/>
+            <Button Content="Назад" Width="100" Click="BackButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
