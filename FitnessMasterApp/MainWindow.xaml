@@ -10,7 +10,7 @@
         <TextBlock Text="ФитнесМас" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,20,0,387"/>
         <TextBlock Text="Авторизация" FontSize="15" FontWeight="ExtraLight" HorizontalAlignment="Center" Margin="0,47,0,367"/>
         <TextBlock Text="Логин" Margin="300,86,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
-        <TextBox x:Name="LoginTextBox" Text="Введите логин" Width="200" HorizontalAlignment="Center" Margin="0,107,0,0" VerticalAlignment="Top" TextChanged="LoginTextBox_TextChanged"/>
+        <TextBox x:Name="LoginTextBox" Text="Введите логин" Width="200" HorizontalAlignment="Center" Margin="0,107,0,0" VerticalAlignment="Top" />
         <TextBlock Text="Пароль" Margin="300,130,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <PasswordBox x:Name="PasswordBox" Width="200" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,151,0,0"/>
         <Button Content="Войти" Height="30" Click="LoginButton_Click" Margin="0,174,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="72"/>

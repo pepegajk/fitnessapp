@@ -58,7 +58,7 @@ namespace FitnessMasterApp
 
         private void UsernameTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-            MessageBox.Show("Успех");
+           
         }
 
         private void RegistrationButton_Click(object sender, RoutedEventArgs e)
