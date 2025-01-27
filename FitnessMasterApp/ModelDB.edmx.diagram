@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9feb0e5a05a548d78a16df1c4fc99630" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="bkModel.Books" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.Deliveries" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.DeliveryItems" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.EmployeeRoles" Width="1.5" PointX="8" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.Employees" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.Roles" Width="1.5" PointX="5.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.Sales" Width="1.5" PointX="6" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.Stores" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.StoreStocks" Width="1.5" PointX="3" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="bkModel.sysdiagrams" Width="1.5" PointX="2.75" PointY="8.25" IsExpanded="true" />
+        <AssociationConnector Association="bkModel.FK__DeliveryI__BookI__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__Sales__BookID__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__StoreStoc__BookI__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__DeliveryI__Deliv__74AE54BC" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__EmployeeR__Emplo__7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__EmployeeR__RoleI__7D439ABD" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__Sales__StoreID__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="bkModel.FK__StoreStoc__Store__6A30C649" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

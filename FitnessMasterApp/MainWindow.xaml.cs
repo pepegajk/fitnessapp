@@ -18,8 +18,10 @@ namespace FitnessMasterApp
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
+   
     public partial class MainWindow : Window
     {
+        private bkEntities context = new bkEntities();
         public MainWindow()
         {
             InitializeComponent();
