@@ -7,20 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Text="ФитнесМас" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,20,0,0"/>
-        <TextBlock Text="Авторизация" FontSize="15" FontWeight="ExtraLight" HorizontalAlignment="Center" Margin="0,47,0,0"/>
-
-
-        <TextBlock Text="Логин" Margin="300,140,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
-        <TextBox x:Name="LoginTextBox" Text="Введите логин" Width="200" HorizontalAlignment="Center" Margin="0,161,0,0" VerticalAlignment="Top"/>
-
-
-        <TextBlock Text="Пароль" Margin="300,187,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-        <PasswordBox x:Name="PasswordBox" Width="200" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-
-
-        <Button Content="Войти" Width="100" Height="30" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,263,0,0" Click="LoginButton_Click"/>
-        <Button Content="Регистрация" Width="100" Height="30" HorizontalAlignment="Center" Margin="0,298,0,106" Click="RegistrationButton_Click"/>
-
+        <TextBlock Text="ФитнесМас" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,20,0,387"/>
+        <TextBlock Text="Авторизация" FontSize="15" FontWeight="ExtraLight" HorizontalAlignment="Center" Margin="0,47,0,367"/>
+        <TextBlock Text="Логин" Margin="300,86,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="LoginTextBox" Text="Введите логин" Width="200" HorizontalAlignment="Center" Margin="0,107,0,0" VerticalAlignment="Top" TextChanged="LoginTextBox_TextChanged"/>
+        <TextBlock Text="Пароль" Margin="300,130,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="PasswordBox" Width="200" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,151,0,0"/>
+        <Button Content="Войти" Height="30" Click="LoginButton_Click" Margin="0,174,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="72"/>
+        <Button Content="Регистрация" Height="30" Click="RegistrationButton_Click" Margin="0,209,0,0" HorizontalAlignment="Center" VerticalAlignment="Top"/>
     </Grid>
 </Window>

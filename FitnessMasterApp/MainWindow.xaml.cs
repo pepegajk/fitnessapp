@@ -32,11 +32,22 @@ namespace FitnessMasterApp
             string password = PasswordBox.Password;
 
             // Пример проверки
-            if (login == "admin@example.com" && password == "password")
+            if (login == "trainer" && password == "trainer")
             {
-                MessageBox.Show("Авторизация успешна!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
-                // Переход в основное приложение
-                MainWindow mainWindow = new MainWindow();
+               
+                TrainerDashboard mainWindow = new TrainerDashboard();
+                mainWindow.Show();
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Неверный логин или пароль!", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            // Пример проверки
+            if (login == "director" && password == "director")
+            {
+               
+                DirectorNavigation mainWindow = new DirectorNavigation();
                 mainWindow.Show();
                 this.Close();
             }
@@ -46,12 +57,17 @@ namespace FitnessMasterApp
             }
         }
 
-        private void RegisterButton_Click(object sender, RoutedEventArgs e)
+        private void RegistrationButton_Click(object sender, RoutedEventArgs e)
         {
             // Переход к окну регистрации
             CustomerRegistration registrationWindow = new CustomerRegistration();
             registrationWindow.Show();
             this.Close();
+        }
+
+        private void LoginTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }

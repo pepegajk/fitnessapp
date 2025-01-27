@@ -71,6 +71,9 @@ namespace FitnessMasterApp
             this.Close();
         }
 
-
+        private void ScheduleDataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            MessageBox.Show("Успех");
+        }
     }
 }

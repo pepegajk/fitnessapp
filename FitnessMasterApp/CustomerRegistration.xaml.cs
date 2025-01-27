@@ -56,6 +56,24 @@ namespace FitnessMasterApp
             this.Close();
         }
 
-       
+        private void UsernameTextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            MessageBox.Show("Успех");
+        }
+
+        private void RegistrationButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow authorizationWindow = new MainWindow();
+            authorizationWindow.Show();
+            this.Close();
+        }
+
+        private void LoginButton_Click(object sender, RoutedEventArgs e)
+        {
+            // Переход назад к авторизации
+            MainWindow authorizationWindow = new MainWindow();
+            authorizationWindow.Show();
+            this.Close();
+        }
     }
 }

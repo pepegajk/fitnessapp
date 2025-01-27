@@ -7,15 +7,39 @@
       "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|c:\\users\\\u0432\u0435\u0440\u0430\\desktop\\c#\\fitnessmasterapp\\fitnessmasterapp\\modeldb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\modeldb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|c:\\users\\\u0432\u0435\u0440\u0430\\desktop\\c#\\fitnessmasterapp\\fitnessmasterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|c:\\users\\\u0432\u0435\u0440\u0430\\desktop\\c#\\fitnessmasterapp\\fitnessmasterapp\\trainerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\classschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\classschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\classschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\classschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\modeldb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\modeldb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\trainerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\trainerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -27,20 +51,8 @@
       "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\directornavigation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\classschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\classschedule.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\reports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,18 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\directornavigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\directornavigation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\reports.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\classschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\classschedule.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\fitnessmasterapp\\customerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A8C0C58-8181-43F4-A5D9-3CB0DF250015}|FitnessMasterApp\\FitnessMasterApp.csproj|solutionrelative:fitnessmasterapp\\customerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,174 +85,12 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ModelDB.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ModelDB.edmx",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\ModelDB.edmx",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ModelDB.edmx [Diagram1]",
-              "RelativeToolTip": "FitnessMasterApp\\ModelDB.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-01-27T06:01:35.188Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrainerDashboard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml.cs",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\TrainerDashboard.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml.cs",
-              "RelativeToolTip": "FitnessMasterApp\\TrainerDashboard.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T15:01:25.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TrainerDashboard.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\TrainerDashboard.xaml",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml",
-              "RelativeToolTip": "FitnessMasterApp\\TrainerDashboard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-26T15:01:10.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerList.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml.cs",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerList.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml.cs",
-              "RelativeToolTip": "FitnessMasterApp\\CustomerList.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T21:17:01.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerList.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerList.xaml",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml",
-              "RelativeToolTip": "FitnessMasterApp\\CustomerList.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-25T21:05:55.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Reports.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml.cs",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\Reports.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml.cs",
-              "RelativeToolTip": "FitnessMasterApp\\Reports.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T20:34:46.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Reports.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\Reports.xaml",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml",
-              "RelativeToolTip": "FitnessMasterApp\\Reports.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-24T22:08:11.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClassSchedule.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml.cs",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\ClassSchedule.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml.cs",
-              "RelativeToolTip": "FitnessMasterApp\\ClassSchedule.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T22:18:04.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ClassSchedule.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\ClassSchedule.xaml",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml",
-              "RelativeToolTip": "FitnessMasterApp\\ClassSchedule.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-24T22:10:28.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerRegistration.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml.cs",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerRegistration.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml.cs",
-              "RelativeToolTip": "FitnessMasterApp\\CustomerRegistration.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAApwBkAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T13:59:35.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomerRegistration.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerRegistration.xaml",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml",
-              "RelativeToolTip": "FitnessMasterApp\\CustomerRegistration.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-24T12:59:15.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DirectorNavigation.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml.cs",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\DirectorNavigation.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml.cs",
-              "RelativeToolTip": "FitnessMasterApp\\DirectorNavigation.xaml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAMwBoAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T13:45:40.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DirectorNavigation.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml",
-              "RelativeDocumentMoniker": "FitnessMasterApp\\DirectorNavigation.xaml",
-              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml",
-              "RelativeToolTip": "FitnessMasterApp\\DirectorNavigation.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-24T13:42:00.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "FitnessMasterApp\\MainWindow.xaml",
@@ -264,16 +102,171 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelDB.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ModelDB.edmx",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\ModelDB.edmx",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ModelDB.edmx [Diagram1]",
+              "RelativeToolTip": "FitnessMasterApp\\ModelDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-27T06:01:35.188Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "FitnessMasterApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "FitnessMasterApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBQAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwDAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T10:35:44.863Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainerDashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\TrainerDashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml.cs",
+              "RelativeToolTip": "FitnessMasterApp\\TrainerDashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:01:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrainerDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\TrainerDashboard.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\TrainerDashboard.xaml",
+              "RelativeToolTip": "FitnessMasterApp\\TrainerDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-26T15:01:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerList.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml.cs",
+              "RelativeToolTip": "FitnessMasterApp\\CustomerList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T21:17:01.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerList.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerList.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerList.xaml",
+              "RelativeToolTip": "FitnessMasterApp\\CustomerList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-25T21:05:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reports.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\Reports.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml.cs",
+              "RelativeToolTip": "FitnessMasterApp\\Reports.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:34:46.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reports.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\Reports.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\Reports.xaml",
+              "RelativeToolTip": "FitnessMasterApp\\Reports.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T22:08:11.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassSchedule.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\ClassSchedule.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml.cs",
+              "RelativeToolTip": "FitnessMasterApp\\ClassSchedule.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAD4v0sAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:18:04.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassSchedule.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\ClassSchedule.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\ClassSchedule.xaml",
+              "RelativeToolTip": "FitnessMasterApp\\ClassSchedule.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T22:10:28.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRegistration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerRegistration.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml.cs",
+              "RelativeToolTip": "FitnessMasterApp\\CustomerRegistration.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAApwEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:59:35.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerRegistration.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\CustomerRegistration.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\CustomerRegistration.xaml",
+              "RelativeToolTip": "FitnessMasterApp\\CustomerRegistration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T12:59:15.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DirectorNavigation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\DirectorNavigation.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml.cs",
+              "RelativeToolTip": "FitnessMasterApp\\DirectorNavigation.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAMwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:45:40.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DirectorNavigation.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml",
+              "RelativeDocumentMoniker": "FitnessMasterApp\\DirectorNavigation.xaml",
+              "ToolTip": "C:\\Users\\\u0412\u0435\u0440\u0430\\Desktop\\C#\\FitnessMasterApp\\FitnessMasterApp\\DirectorNavigation.xaml",
+              "RelativeToolTip": "FitnessMasterApp\\DirectorNavigation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T13:42:00.779Z"
             }
           ]
         }
